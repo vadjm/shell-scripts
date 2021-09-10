@@ -7,6 +7,7 @@ Git global setup
 ```sh
 git config --global user.name "Vadim Shapka"
 git config --global user.email "vadym.shapka@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "vadjm.dev@gmail.com"
 ```
 
 Show changes
